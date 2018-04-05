@@ -5,6 +5,18 @@
 <script>
 export default {
   name: 'TicTac',
+
+  data() {
+    return {};
+  },
+
+  computed: {
+
+  },
+
+  methods: {
+
+  },
 };
 </script>
 
