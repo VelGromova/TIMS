@@ -1,5 +1,5 @@
 <template>
-  <div>tic tac</div>
+  <div>Under construction</div>
 </template>
 
 <script>
